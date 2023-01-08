@@ -2,7 +2,7 @@
 <html>
   <div>
   <body>
-    <h1>Mobile Medic </h1>
+    <h1>Mobile Medic - <a href "https://jsfiddle.net/gL2mej0q/">Demo</a></h1>
 	<a href="https://ibb.co/Kh5r808"><img src="https://i.ibb.co/kBGSPHP/Screen-Shot-2021-07-25-at-13-41-12.png" alt="Screen-Shot-2021-07-25-at-13-41-12" class="center" border="0"></a>
       <h2>Business Pitch</h2>
       <p> Checking up on patients during the 90 day post-surgery period is becoming increasingly difficult and costly due to a lack of communication, funds, and hospital staff. That’s where we come in, introducing our app, Mobile Medic, a curative assistant at your fingertips. Mobile Medic works to improve communication between health-care providers and patients and reduce the expense and progression of post-surgical complications. Unlike other apps, our simple design caters to older patients and quickly connects them to doctors and online assistants when post-surgical complications are detected. Tanvi, Jane, Marcus, Yiwei, and Tanisha are very excited to show you our creation. Mobile Medic is revolutionizing medical technologies and helping post-surgical patients live longer, healthier lives. 
